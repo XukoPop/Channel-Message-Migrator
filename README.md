@@ -20,10 +20,6 @@ A utility script for Discord selfbots that allows you to easily migrate messages
 `.migrate cancel` - Cancel the current migration
 `.migrate help` - Display help information
 
-## Usage Examples
-
-Basic migration (100 messages):
-
 ## Installation
 
 1. Save the script to your selfbot scripts folder
